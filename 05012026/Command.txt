@@ -1,0 +1,36 @@
+ 1 try { . "c:\Users\shail\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\termi... 
+   2 & "C:\Shailesh\Python Dev\.venv\Scripts\Activate.ps1"
+   3 & "C:\Shailesh\Python Dev\.venv\Scripts\python.exe" "c:/Shailesh/Python Dev/04012026/test.py"
+   4 git --version
+   5 git config --global user.name "01yshailesh"
+   6 git init
+   7 git ststus
+   8 git status
+   9 clear
+  10 git add.
+  11 git add .
+  12 git status
+  13 git rm --cached
+  14 git rm --cached .
+  15 git rm --cached
+  16 git rm --cached 04012026/test.py
+  17 git status
+  18 git add .
+  19 git status
+  20 git comit -m
+  21 git commit -m
+  22 git commit
+  23 git config --global user.email "01yshailesh@gmail.com"
+  24 git config --global user.name "My"
+  25 git commit
+  26 git commit "."
+  27 git commit "04012026/test.py"
+  28 git commit "test.py"
+  29 git commit -m "test.py"
+  30 clear
+  31 git status
+  32 git commit -m "05012026/git-test-command.txt"
+  33 git commit -m "git-test-command.txt"
+  34 git add "05012026/git-test-command.txt"
+  35 git commit -m "05012026/git-test-command.txt"
+  36 git history
