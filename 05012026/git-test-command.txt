@@ -6,3 +6,46 @@
  output is
 
 git version 2.52.0.windows.1'''
+
+'''
+PS C:\Shailesh\Python Dev> git status
+On branch main
+
+No commits yet
+
+Untracked files: (--File in Systm not on git)
+  (use "git add <file>..." to include in what will be committed)
+        04012026/
+        05012026/
+
+nothing added to commit but untracked files present (use "git add" to track)
+'''
+
+'''
+on stage ready to uplode other wise back to normal
+
+PS C:\Shailesh\Python Dev> git add . (. for all files or file name for particular file)
+
+
+PS C:\Shailesh\Python Dev> git status
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   04012026/test.py
+        new file:   05012026/git-test-command.txt
+        new file:   05012026/git-test.py
+
+'''
+'''
+For uplode
+
+PS C:\Shailesh\Python Dev> git commit -m "test.py"
+[main (root-commit) 3abc31f] test.py
+ 3 files changed, 15 insertions(+)
+ create mode 100644 04012026/test.py
+ create mode 100644 05012026/git-test-command.txt
+ create mode 100644 05012026/git-test.py
+ '''
