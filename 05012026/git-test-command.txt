@@ -1,0 +1,8 @@
+''' For version chake use 
+ git --version 
+ just lick
+ PS C:\Shailesh\Python Dev> git --version
+
+ output is
+
+git version 2.52.0.windows.1'''
